@@ -1,5 +1,6 @@
 from flask import Blueprint, render_template, request
-from database.cliente import CLIENTES
+# from ..database.cliente import CLIENTES     # importação relativa
+from flask_estudo.database.cliente import CLIENTES     # importação absoluta
 
 cliente_route = Blueprint('cliente', __name__)
 
