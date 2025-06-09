@@ -1,0 +1,12 @@
+pyproject.toml
+flask_estudo/__init__.py
+flask_estudo/app.py
+flask_estudo.egg-info/PKG-INFO
+flask_estudo.egg-info/SOURCES.txt
+flask_estudo.egg-info/dependency_links.txt
+flask_estudo.egg-info/requires.txt
+flask_estudo.egg-info/top_level.txt
+flask_estudo/database/cliente.py
+flask_estudo/routes/cliente.py
+flask_estudo/routes/home.py
+tests/test_app.py
